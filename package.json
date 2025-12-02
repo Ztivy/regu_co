@@ -19,5 +19,13 @@
   "devDependencies": {
     "nodemon": "^3.1.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ztivy/Regu_comp1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ztivy/Regu_comp1/issues"
+  },
+  "homepage": "https://github.com/Ztivy/Regu_comp1#readme",
   "description": ""
 }
